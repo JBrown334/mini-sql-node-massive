@@ -72,7 +72,7 @@ db.new_plane(function(err, planes){
 });
 ```
 
-This works by looking in the `/db` folder in our app fore a file called `new_plane.sql`
+This works by looking in the `/db` folder in our app for a file called `new_plane.sql`
 
 We've added a plane, comment those 3 lines of code out so we don't add duplicates.
 
